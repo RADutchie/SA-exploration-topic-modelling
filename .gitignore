@@ -134,5 +134,6 @@ dmypy.json
 /data/interim
 /data/2M Surface Geology_gdb
 /data/Tenement_spatial
+/data/Raw/Envelopes
 
 /Notebooks/Envelope LDA

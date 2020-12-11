@@ -135,5 +135,6 @@ dmypy.json
 /data/2M Surface Geology_gdb
 /data/Tenement_spatial
 /data/Raw/Envelopes
+/Data/Processed/processed_env_abstracts_20201125.csv
 
 /Notebooks/Envelope LDA

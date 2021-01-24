@@ -9,7 +9,7 @@ There are 5894 abstracts provided in this data set. In these notebooks I present
 
 You can find links to the two blog posts that work through and discuss the results of these two notebooks below:
 * [What are explorers looking for in S.A.? Part 1](https://geodataanalytics.net/what-are-explorers-looking-for/)
-* [What are explorers looking for in S.A.? Part 2](https://geodataanalytics.net/what-are-explorers-looking-for-in-south-australia/)
+* [What are explorers looking for in S.A.? Part 2](https://geodataanalytics.net/what-are-explorers-looking-for-in-sa-part-2/)
 
 The results suggest the states exploration record can be defined by 8 major topics: 
 * IOCG exploration

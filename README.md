@@ -7,7 +7,7 @@ These data are all freely available via the [SARIG](https://map.sarig.sa.gov.au/
 
 There are 5894 abstracts provided in this data set. In these notebooks I present a way to utilise NLP (natural language processing) techniques to clean up the datasets and apply Latent Dirichlet Allocation (LDA) topic modelling to identify the main 'topics' discussed in the exploration report summaries. Once the main topics were identified I utilised the associated tenement numbers and their spatial boundaries (available as geodatabase or shape files from SARIG) to display a spatial distribution of the topics across South Australia. 
 
-I will write the results of this work up soon into a shot article. But the results suggest the states exploration record can be defined by 8 major topics: 
+I will write the results of this work up soon into a short article. But the results suggest the states exploration record can be defined by 8 major topics: 
 * IOCG exploration
 * Gold, Copper and base metal exploration
 * Uranium and coal exploration
